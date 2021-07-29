@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Rvn0xsy/Rvn0xsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Rvn0xsy's Stars
+
+![My Stars](https://github-readme-stats.vercel.app/api?username=Rvn0xsy&show_icons=true&include_all_commits=true&count_private=true)
+
+### Top Repo
+
+![Cooolis-ms](https://github-readme-stats.vercel.app/api/pin/?username=Rvn0xsy&repo=Cooolis-ms)
+
+![BadCode](https://github-readme-stats.vercel.app/api/pin/?username=Rvn0xsy&repo=BadCode)
+
+
+### Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvn0xsy&layout=compact)
+
