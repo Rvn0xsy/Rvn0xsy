@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ![My Stars](https://github-readme-stats.vercel.app/api?username=Rvn0xsy&show_icons=true&include_all_commits=true&count_private=true)
 
+<!--
 ### Top Repo
 
 [![Cooolis-ms](https://github-readme-stats.vercel.app/api/pin/?username=Rvn0xsy&repo=Cooolis-ms)](https://github.com/Rvn0xsy/Cooolis-ms)
 
 [![BadCode](https://github-readme-stats.vercel.app/api/pin/?username=Rvn0xsy&repo=BadCode)](https://github.com/Rvn0xsy/BadCode)
-
+-->
 
 ### Top Langs
 
