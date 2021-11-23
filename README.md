@@ -1,5 +1,5 @@
 
-
+⚡⚡⚡
 <!--
 **Rvn0xsy/Rvn0xsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Rvn0xsy's Stars
 
-![My Stars](https://github-readme-stats.vercel.app/api?username=Rvn0xsy&show_icons=true&include_all_commits=true&count_private=true)
+
+| <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rvn0xsy&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&hide=contribs" alt="Rvn0xsy's github stats" /></a> | <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvn0xsy&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
+| ------------- | ------------- |
+
 
 <!--
 ### Top Repo
@@ -26,8 +28,4 @@ Here are some ideas to get you started:
 
 [![BadCode](https://github-readme-stats.vercel.app/api/pin/?username=Rvn0xsy&repo=BadCode)](https://github.com/Rvn0xsy/BadCode)
 -->
-
-### Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvn0xsy&layout=compact)](https://github.com/Rvn0xsy/)
 
